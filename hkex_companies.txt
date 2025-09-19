@@ -1,0 +1,500 @@
+0700|Tencent Holdings Limited
+9988|Alibaba Group Holding Limited
+1398|Industrial and Commercial Bank of China Limited
+1288|Agricultural Bank of China Limited
+4333|Cisco Systems, Inc.
+0939|China Construction Bank Corporation
+0941|China Mobile Limited
+0005|HSBC Holdings plc
+3750|Contemporary Amperex Technology Co., Limited
+3988|Bank of China Limited
+0857|PetroChina Company Limited
+1810|Xiaomi Corporation
+4336|Applied Materials, Inc.
+3968|China Merchants Bank Co., Ltd.
+1211|BYD Company Limited
+2318|Ping An Insurance (Group) Company of China, Ltd.
+2628|China Life Insurance Company Limited
+0883|CNOOC Limited
+4335|Intel Corporation
+1088|China Shenhua Energy Company Limited
+1658|Postal Savings Bank of China Co., Ltd.
+6288|Fast Retailing Co., Ltd.
+1299|AIA Group Limited
+9999|NetEase, Inc.
+2899|Zijin Mining Group Company Limited
+0981|Semiconductor Manufacturing International Corporation
+0386|China Petroleum & Chemical Corporation
+0728|China Telecom Corporation Limited
+3690|Meituan
+3328|Bank of Communications Co., Ltd.
+0300|Midea Group Co., Ltd.
+9633|Nongfu Spring Co., Ltd.
+0388|Hong Kong Exchanges and Clearing Limited
+1276|Jiangsu Hengrui Medicine Co., Ltd.
+6030|CITIC Securities Company Limited
+0998|China CITIC Bank Corporation Limited
+0945|Manulife Financial Corporation
+2388|BOC Hong Kong (Holdings) Limited
+9961|Trip.com Group Limited
+9618|JD.com, Inc.
+2328|PICC Property and Casualty Company Limited
+9888|Baidu, Inc.
+1339|The People's Insurance Company (Group) of China Limited
+0267|CITIC Limited
+9992|Pop Mart International Group Limited
+2601|China Pacific Insurance (Group) Co., Ltd.
+2888|Standard Chartered PLC
+2611|Guotai Haitong Securities Co., Ltd.
+2359|WuXi AppTec Co., Ltd.
+1024|Kuaishou Technology
+1698|Tencent Music Entertainment Group
+0762|China Unicom (Hong Kong) Limited
+6160|BeOne Medicines AG
+3993|CMOC Group Limited
+2378|Prudential plc
+0016|Sun Hung Kai Properties Limited
+2020|ANTA Sports Products Limited
+6690|Haier Smart Home Co., Ltd.
+3288|Foshan Haitian Flavouring and Food Company Ltd.
+1919|COSCO SHIPPING Holdings Co., Ltd.
+1378|China Hongqiao Group Limited
+1766|CRRC Corporation Limited
+1109|China Resources Land Limited
+0011|Hang Seng Bank Limited
+6936|S.F. Holding Co., Ltd.
+0763|ZTE Corporation
+6818|China Everbright Bank Company Limited
+6618|JD Health International Inc.
+3692|Hansoh Pharmaceutical Group Company Limited
+2333|Great Wall Motor Company Limited
+2015|Li Auto Inc.
+3606|Fuyao Glass Industry Group Co., Ltd.
+6066|CSC Financial Co., Ltd.
+0788|China Tower Corporation Limited
+2050|Zhejiang Sanhua Intelligent Controls Co.,Ltd
+0001|CK Hutchison Holdings Limited
+1988|China Minsheng Banking Corp., Ltd.
+0175|Geely Automobile Holdings Limited
+1816|CGN Power Co., Ltd.
+6886|Huatai Securities Co., Ltd.
+0669|Techtronic Industries Company Limited
+2423|KE Holdings Inc.
+1336|New China Life Insurance Company Ltd.
+6881|China Galaxy Securities Co., Ltd.
+6613|Lens Technology Co., Ltd.
+0027|Galaxy Entertainment Group Limited
+1787|Shandong Gold Mining Co., Ltd.
+1801|Innovent Biologics, Inc.
+0066|MTR Corporation Limited
+0002|CLP Holdings Limited
+1928|Sands China Ltd.
+1776|GF Securities Co., Ltd.
+1880|China Tourism Group Duty Free Corporation Limited
+6099|China Merchants Securities Co., Ltd.
+9868|XPeng Inc.
+2269|WuXi Biologics (Cayman) Inc.
+0688|China Overseas Land & Investment Limited
+3908|China International Capital Corporation Limited
+1929|Chow Tai Fook Jewellery Group Limited
+1898|China Coal Energy Company Limited
+2097|MIXUE Group
+9660|Horizon Robotics
+1177|Sino Biopharmaceutical Limited
+0992|Lenovo Group Limited
+9866|NIO Inc.
+0390|China Railway Group Limited
+2600|Aluminum Corporation of China Limited
+1800|China Communications Construction Company Limited
+6806|Shenwan Hongyuan Group Co., Ltd.
+0753|Air China Limited
+0012|Henderson Land Development Company Limited
+1038|CK Infrastructure Holdings Limited
+2338|Weichai Power Co., Ltd.
+0003|The Hong Kong and China Gas Company Limited
+1113|CK Asset Holdings Limited
+0914|Anhui Conch Cement Company Limited
+1972|Swire Properties Limited
+1171|Yankuang Energy Group Company Limited
+9987|Yum China Holdings, Inc.
+2727|Shanghai Electric Group Co., Ltd.
+6181|Laopu Gold Co., Ltd.
+1913|Prada S.p.A.
+9926|Akeso, Inc.
+2057|ZTO Express (Cayman) Inc.
+0916|China Longyuan Power Group Corporation Limited
+6990|Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.
+0902|Huaneng Power International, Inc.
+1093|CSPC Pharmaceutical Group Limited
+1347|Hua Hong Semiconductor Limited
+6969|Smoore International Holdings Limited
+1186|China Railway Construction Corporation Limited
+0288|WH Group Limited
+0006|Power Assets Holdings Limited
+1876|Budweiser Brewing Company APAC Limited
+0241|Alibaba Health Information Technology Limited
+1055|China Southern Airlines Company Limited
+0823|Link Real Estate Investment Trust
+0020|SenseTime Group Inc.
+0358|Jiangxi Copper Company Limited
+1772|Ganfeng Lithium Group Co., Ltd.
+1818|Zhaojin Mining Industry Company Limited
+3996|China Energy Engineering Corporation Limited
+1209|China Resources Mixc Lifestyle Services Limited
+0836|China Resources Power Holdings Company Limited
+2313|Shenzhou International Group Holdings Limited
+0285|BYD Electronic (International) Company Limited
+0083|Sino Land Company Limited
+3958|Orient Securities Company Limited
+1179|H World Group Limited
+0670|China Eastern Airlines Corporation Limited
+9863|Zhejiang Leapmotor Technology Co., Ltd.
+0291|China Resources Beer (Holdings) Company Limited
+2382|Sunny Optical Technology (Group) Company Limited
+6823|HKT Trust and HKT Limited
+2196|Shanghai Fosun Pharmaceutical (Group) Co., Ltd.
+2016|China Zheshang Bank Co., Ltd
+2076|Kanzhun Limited
+2268|WuXi XDC Cayman Inc.
+0019|Swire Pacific Limited
+0087|Swire Pacific Limited
+6178|Everbright Securities Company Limited
+0316|Orient Overseas (International) Limited
+2577|InnoScience (Suzhou) Technology Holding Co., Ltd.
+9626|Bilibili Inc.
+0168|Tsingtao Brewery Company Limited
+2618|JD Logistics, Inc.
+0412|Shandong Hi-Speed Holdings Group Limited
+2202|China Vanke Co., Ltd.
+2799|China CITIC Financial Asset Management Co., Ltd.
+0960|Longfor Group Holdings Limited
+1519|J&T Global Express Limited
+1308|SITC International Holdings Company Limited
+3618|Chongqing Rural Commercial Bank Co., Ltd.
+9696|Tianqi Lithium Corporation
+1530|3SBio Inc.
+0489|Dongfeng Motor Group Company Limited
+6862|Haidilao International Holding Ltd.
+2238|Guangzhou Automobile Group Co., Ltd.
+2617|TransThera Sciences (Nanjing), Inc.
+1618|Metallurgical Corporation of China Ltd.
+2688|ENN Energy Holdings Limited
+0293|Cathay Pacific Airways Limited
+1997|Wharf Real Estate Investment Company Limited
+0004|The Wharf (Holdings) Limited
+1157|Zoomlion Heavy Industry Science and Technology Co., Ltd.
+9901|New Oriental Education & Technology Group Inc.
+0151|Want Want China Holdings Limited
+1072|Dongfang Electric Corporation Limited
+6869|Yangtze Optical Fibre And Cable Joint Stock Limited Company
+1208|MMG Limited
+2607|Shanghai Pharmaceuticals Holding Co., Ltd
+2367|Giant Biogene Holding Co., Ltd.
+1456|Guolian Minsheng Securities Co., Ltd.
+3759|Pharmaron Beijing Co., Ltd.
+1508|China Reinsurance (Group) Corporation
+0144|China Merchants Port Holdings Company Limited
+3898|Zhuzhou CRRC Times Electric Co., Ltd.
+0135|Kunlun Energy Company Limited
+1071|Huadian Power International Corporation Limited
+0177|Jiangsu Expressway Company Limited
+0486|United Company RUSAL, International Public Joint-Stock Company
+9995|RemeGen Co., Ltd.
+0322|Tingyi (Cayman Islands) Holding Corp.
+0991|Datang International Power Generation Co., Ltd.
+9698|GDS Holdings Limited
+9899|NetEase Cloud Music Inc.
+9880|Ubtech Robotics Corp Ltd
+2208|Goldwind Science&Technology Co., Ltd.
+0268|Kingdee International Software Group Company Limited
+2282|MGM China Holdings Limited
+1138|COSCO SHIPPING Energy Transportation Co., Ltd.
+9896|MINISO Group Holding Limited
+2319|China Mengniu Dairy Company Limited
+6198|Qingdao Port International Co., Ltd.
+1099|Sinopharm Group Co. Ltd.
+3808|Sinotruk (Hong Kong) Limited
+2883|China Oilfield Services Limited
+3969|China Railway Signal & Communication Corporation Limited
+6693|Chifeng Jilong Gold Mining Co.,Ltd.
+0780|Tongcheng Travel Holdings Limited
+0966|China Taiping Insurance Holdings Company Limited
+2638|HK Electric Investments and HK Electric Investments Limited
+3347|Hangzhou Tigermed Consulting Co., Ltd
+3998|Bosideng International Holdings Limited
+3311|China State Construction International Holdings Limited
+1359|China Cinda Asset Management Co., Ltd.
+1318|Mao Geping Cosmetics Co., Ltd.
+2018|AAC Technologies Holdings Inc.
+1364|Guming Holdings Limited
+2099|China Gold International Resources Corp. Ltd.
+6680|JL Mag Rare-Earth Co., Ltd.
+1788|Guotai Junan International Holdings Limited
+3888|Kingsoft Corporation Limited
+3931|CALB Group Co., Ltd.
+2588|BOC Aviation Limited
+1385|Shanghai Fudan Microelectronics Group Company Limited
+0598|Sinotrans Limited
+1258|China Nonferrous Mining Corporation Limited
+0270|Guangdong Investment Limited
+1877|Shanghai Junshi Biosciences Co., Ltd.
+1828|FWD Group Holdings Limited
+1193|China Resources Gas Group Limited
+3698|Huishang Bank Corporation Limited
+0656|Fosun International Limited
+2331|Li Ning Company Limited
+2228|XtalPi Holdings Limited
+1833|Ping An Healthcare and Technology Company Limited
+0136|China Ruyi Holdings Limited
+2904|China Ruyi Holdings Limited
+2696|Shanghai Henlius Biotech, Inc.
+0101|Hang Lung Properties Limited
+0772|China Literature Limited
+6821|Asymchem Laboratories (Tianjin) Co., Ltd.
+2039|China International Marine Containers (Group) Co., Ltd.
+0564|ZMJ Group Company Limited
+0247|Tsim Sha Tsui Properties Limited
+1357|Meitu, Inc.
+0576|Zhejiang Expressway Co., Ltd.
+0874|Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited
+2880|Liaoning Port Co., Ltd.
+2631|SICC Co., Ltd.
+0392|Beijing Enterprises Holdings Limited
+0384|China Gas Holdings Limited
+6963|Sunshine Insurance Group Company Limited
+2380|China Power International Development Limited
+1585|Yadea Group Holdings Ltd.
+2400|XD Inc.
+6865|Flat Glass Group Co., Ltd.
+0425|Minth Group Limited
+0008|PCCW Limited
+9606|Duality Biotherapeutics, Inc.
+3323|China National Building Material Company Limited
+2145|Shanghai Chicmax Cosmetic Co., Ltd.
+1908|C&D International Investment Group Limited
+3800|GCL Technology Holdings Limited
+1735|Central New Energy Holding Group Limited
+0868|Xinyi Glass Holdings Limited
+9678|Unisound AI Technology Co., Ltd.
+3668|Yancoal Australia Ltd
+1548|Genscript Biotech Corporation
+6655|Huaxin Cement Co., Ltd.
+3939|Wanguo Gold Group Limited
+0220|Uni-President China Holdings Ltd
+6186|China Feihe Limited
+1888|Kingboard Laminates Holdings Limited
+3896|Kingsoft Cloud Holdings Limited
+1513|Livzon Pharmaceutical Group Inc.
+0179|Johnson Electric Holdings Limited
+0867|China Medical System Holdings Limited
+0921|Hisense Home Appliances Group Co., Ltd.
+1033|Sinopec Oilfield Service Corporation
+0881|Zhongsheng Group Holdings Limited
+1882|Haitian International Holdings Limited
+1128|Wynn Macau, Limited
+6088|FIT Hon Teng Limited
+2096|Simcere Pharmaceutical Group Limited
+3360|Far East Horizon Limited
+6682|Beijing Fourth Paradigm Technology Co., Ltd.
+9969|InnoCare Pharma Limited
+6055|China Tobacco International (HK) Company Limited
+0317|CSSC Offshore & Marine Engineering (Group) Company Limited
+2590|Beijing Geekplus Technology Co., Ltd.
+2866|COSCO SHIPPING Development Co., Ltd.
+0696|TravelSky Technology Limited
+1060|Damai Entertainment Holdings Limited
+0023|The Bank of East Asia, Limited
+1415|Cowell e Holdings Inc.
+1304|Fortior Technology (Shenzhen) Co., Ltd.
+0552|China Communications Services Corporation Limited
+0522|ASMPT Limited
+6979|ZJLD Group Inc
+3660|Qfin Holdings, Inc.
+2357|AviChina Industry & Technology Company Limited
+0683|Kerry Properties Limited
+9985|WEILONG Delicious Global Holdings Ltd
+2386|SINOPEC Engineering (Group) Co., Ltd.
+0659|CTF Services Limited
+3933|The United Laboratories International Holdings Limited
+1729|Time Interconnect Technology Limited
+9636|JF SmartInvest Holdings Ltd
+2419|Dekon Food and Agriculture Group
+3320|China Resources Pharmaceutical Group Limited
+0512|Grand Pharmaceutical Group Limited
+6060|ZhongAn Online P & C Insurance Co., Ltd.
+0968|Xinyi Solar Holdings Limited
+0148|Kingboard Holdings Limited
+1963|Bank of Chongqing Co., Ltd.
+6127|Joinn Laboratories(China)Co.,Ltd.
+2252|Shanghai MicroPort MedBot (Group) Co., Ltd.
+2643|CaoCao Inc.
+0257|China Everbright Environment Group Limited
+0666|REPT BATTERO Energy Co., Ltd.
+1044|Hengan International Group Company Limited
+3677|Jiangsu Zenergy Battery Technologies Group Co., Ltd.
+6887|Sunshine Lake Pharma Co., Ltd.
+2602|Onewo Inc.
+3918|NagaCorp Ltd.
+9688|Zai Lab Limited
+0956|China Suntien Green Energy Corporation Limited
+1797|East Buy Holding Limited
+3866|Bank of Qingdao Co., Ltd.
+6855|Ascentage Pharma Group International
+1686|SUNeVision Holdings Ltd.
+0323|Maanshan Iron & Steel Company Limited
+0142|First Pacific Company Limited
+2689|Nine Dragons Paper (Holdings) Limited
+2518|Autohome Inc.
+1066|Shandong Weigao Group Medical Polymer Company Limited
+2460|China Resources Beverage (Holdings) Company Limited
+0338|Sinopec Shanghai Petrochemical Company Limited
+0853|MicroPort Scientific Corporation
+1133|Harbin Electric Company Limited
+3396|Legend Holdings Corporation
+2648|Anjoy Foods Group Co., Ltd.
+1070|TCL Electronics Holdings Limited
+0347|Angang Steel Company Limited
+2432|Shenzhen Dobot Corp Ltd
+0053|Guoco Group Limited
+9889|Dongguan Rural Commercial Bank Co., Ltd.
+1860|Mobvista Inc.
+0371|Beijing Enterprises Water Group Limited
+3900|Greentown China Holdings Limited
+0548|Shenzhen Expressway Corporation Limited
+2610|Nanshan Aluminium International Holdings Limited
+0525|Guangshen Railway Company Limited
+1551|Guangzhou Rural Commercial Bank Co., Ltd.
+0013|HUTCHMED (China) Limited
+1910|Samsonite Group S.A.
+2580|Aux Electric Co., Ltd.
+9898|Weibo Corporation
+0546|Fufeng Group Limited
+0325|Bloks Group Limited
+2245|Lygend Resources & Technology Co., Ltd.
+2507|Cirrus Aircraft Limited
+0631|Sany Heavy Equipment International Holdings Company Limited
+0995|Anhui Expressway Company Limited
+6098|Country Garden Services Holdings Company Limited
+2162|Keymed Biosciences Inc.
+0376|Yunfeng Financial Group Limited
+0880|SJM Holdings Limited
+1142|E&P Global Holdings Limited
+1164|CGN Mining Company Limited
+1199|COSCO SHIPPING Ports Limited
+1375|Central China Securities Co., Ltd.
+2938|Shanghai Conant Optical Co., Ltd.
+1606|China Development Bank Financial Leasing Co., Ltd.
+0817|China Jinmao Holdings Group Limited
+6993|Blue Moon Group Holdings Limited
+0551|Yue Yuen Industrial (Holdings) Limited
+6623|Lufax Holding Ltd
+0123|Yuexiu Property Company Limited
+6168|Zhou Liu Fu Jewellery Co., Ltd.
+0579|Beijing Jingneng Clean Energy Co., Limited
+1952|Everest Medicines Limited
+0189|Dongyue Group Limited
+0697|Shoucheng Holdings Limited
+3330|Lingbao Gold Group Company Ltd.
+2498|Robosense Technology Co., Ltd
+0010|Hang Lung Group Limited
+3369|Qinhuangdao Port Co., Ltd.
+0586|China Conch Venture Holdings Limited
+2627|Ab&B Bio-Tech CO., LTD. JS
+1316|Nexteer Automotive Group Limited
+2232|Crystal International Group Limited
+2565|PegBio Co., Ltd.
+0017|New World Development Company Limited
+0152|Shenzhen International Holdings Limited
+2591|Guangzhou Innogen Pharmaceutical Group Co., Ltd
+6049|Poly Property Services Co., Ltd.
+1798|China Datang Corporation Renewable Power Co., Limited
+0917|Qunabox Group Limited
+1918|Sunac China Holdings Limited
+9668|China Bohai Bank Co., Ltd.
+6110|Topsports International Holdings Limited
+6808|Sun Art Retail Group Limited
+1114|Brilliance China Automotive Holdings Limited
+2858|Yixin Group Limited
+1030|Seazen Group Limited
+6196|Bank of Zhengzhou Co., Ltd.
+9989|Shenzhen Hepalink Pharmaceutical Group Co., Ltd.
+2009|BBMG Corporation
+0290|GoFintech Quantum Innovation Limited
+1196|Realord Group Holdings Limited
+1999|Man Wah Holdings Limited
+0811|Xinhua Winshare Publishing and Media Co., Ltd.
+1931|IVD Medical Holding Limited
+9690|TUHU Car Inc.
+1958|BAIC Motor Corporation Limited
+9911|Newborn Town Inc.
+9677|Weihai Bank Co., Ltd.
+2007|Country Garden Holdings Company Limited
+1478|Q Technology (Group) Company Limited
+6185|CanSino Biologics Inc.
+0107|Sichuan Expressway Company Limited
+2570|Shanghai REFIRE Group Limited
+2669|China Overseas Property Holdings Limited
+1333|Breton Technology Co., Ltd.
+0014|Hysan Development Company Limited
+1368|Xtep International Holdings Limited
+6199|Bank of Guizhou Co., Ltd.
+0069|Shangri-La Asia Limited
+0363|Shanghai Industrial Holdings Limited
+0303|Vtech Holdings Limited
+0667|China East Education Holdings Limited
+1428|Bright Smart Securities & Commodities Group Limited
+2473|XXF Group Holdings Limited
+2869|Greentown Service Group Co. Ltd.
+3899|CIMC Enric Holdings Limited
+1578|Bank of Tianjin Co., Ltd.
+0590|Luk Fook Holdings (International) Limited
+0354|Chinasoft International Limited
+2128|China Lesso Group Holdings Limited
+0165|China Everbright Limited
+1053|Chongqing Iron & Steel Company Limited
+2510|T.S. Lines Limited
+0460|Sihuan Pharmaceutical Holdings Group Ltd.
+2186|Luye Pharma Group Ltd.
+2233|West China Cement Limited
+0856|VSTECS Holdings Limited
+2629|Mirxes Holding Company Limited
+2970|Yantai North Andre Juice Co.,Ltd.
+2218|Yantai North Andre Juice Co.,Ltd.
+2068|China Aluminum International Engineering Corporation Limited
+0639|Shougang Fushan Resources Group Limited
+2556|Marketingforce Management Ltd
+3858|Jiaxin International Resources Investment Limited
+1635|Shanghai Dazhong Public Utilities(Group) Co.,Ltd.
+1083|Towngas Smart Energy Company Limited
+0336|Huabao International Holdings Limited
+0636|KLN Logistics Group Limited
+0467|United Energy Group Limited
+2157|Lepu Biopharma Co., Ltd.
+2356|Dah Sing Banking Group Limited
+2066|Shengjing Bank Co., Ltd.
+1681|Consun Pharmaceutical Group Limited
+2778|Champion Real Estate Investment Trust
+0754|Hopson Development Holdings Limited
+9887|Nanjing Leads Biolabs Co., Ltd.
+1528|Red Star Macalline Group Corporation Ltd.
+2589|Auntea Jenny (Shanghai) Industrial Co., Ltd.
+9699|Hangzhou SF Intra-city Industrial Co., Ltd.
+0038|First Tractor Company Limited
+2038|FIH Mobile Limited
+2506|Xunfei Healthcare Technology Co., Ltd.
+0694|Beijing Capital International Airport Company Limited
+1836|Stella International Holdings Limited
+2142|HBM Holdings Limited
+3738|Vobile Group Limited
+0999|Xiaocaiyuan International Holding Ltd.
+2555|Sichuan Baicha Baidao Industrial Co., Ltd.
+2343|Pacific Basin Shipping Limited
+1310|HKBN Ltd.
+2533|Black Sesame International Holding Limited
+2616|CStone Pharmaceuticals
+0506|China Foods Limited
+1216|Zhongyuan Bank Co., Ltd.
+3339|Lonking Holdings Limited
+2609|Bayzed Health Group Inc
+1313|China Resources Building Materials Technology Holdings Limited
+2314|Lee & Man Paper Manufacturing Limited
