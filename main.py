@@ -1,6 +1,7 @@
 import os
 import time
 from report_finder import process_company
+import cpd_scraper
 
 def read_company_list(filename):
     """
@@ -27,6 +28,9 @@ def main():
     """
     Main function to process US and HK company lists.
     """
+    # Run the CPD scraper
+    cpd_scraper.main()
+
     # Define output directories
     us_output_dir = "reports/us"
     hk_output_dir = "reports/hk"
