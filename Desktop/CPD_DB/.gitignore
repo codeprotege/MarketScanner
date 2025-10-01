@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.db
+*.jsonl
+archive/
+all_jsonl_files/
+*.xls
+*.xlsx
+temp.html
+.DS_Store
